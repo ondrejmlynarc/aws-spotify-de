@@ -78,3 +78,6 @@ The project uses the Spotify data set 2023, which includes the following five CS
 
 4. **Data Visualization**:
     - Create dashboards and reports using Amazon QuickSight.
+  
+## Flow Diagram
+![Data Engineering Flow](images/flow-diagram.png)
