@@ -5,7 +5,7 @@
 [![AWS Athena](https://img.shields.io/badge/AWS-Athena-232F3E.svg?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/athena/)
 [![AWS QuickSight](https://img.shields.io/badge/AWS-QuickSight-232F3E.svg?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/quicksight/)
 
-This project develops a data engineering pipeline on the AWS cloud, including storing, transforming, and analyzing data. The project utilizes a Spotify data set from 2023 (obtained from [Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)) and demonstrates various data engineering tasks, including data ingestion, transformation, and visualization.
+This project develops a simple data engineering pipeline on the AWS cloud, including storing, transforming, and analyzing data. The project utilizes a Spotify data set from 2023 (obtained from [Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)) and demonstrates various data engineering tasks, including data ingestion, transformation, and visualization.
 
 ## Dataset
 
